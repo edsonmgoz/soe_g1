@@ -4,7 +4,7 @@ import main.soe.api.PaymentPlan.domain.entities.PaymentEntity;
 import main.soe.api.PaymentPlan.domain.services.PaymentPlanService;
 import main.soe.api.Student.domain.entities.StudentEntity;
 
-//@RequestMapping("/payment")
+//@RequestMapping("/payment-plan")
 public class PaymentPlanController {
 
     // @Autowired

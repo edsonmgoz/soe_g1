@@ -4,7 +4,7 @@ import java.util.List;
 
 import main.soe.api.Report.domain.services.ReportService;
 
-//@RequestMapping("/reports")
+//@RequestMapping("/report")
 public class ReportController {
 
     // @Autowired
